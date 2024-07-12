@@ -137,3 +137,4 @@ dmypy.json
 
 # Sublime Text project files
 *.sublime*
+.DS_Store
